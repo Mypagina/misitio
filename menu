@@ -1,0 +1,165 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="theme-color" content="#101114"><title>CERVEZAS | LE PRIVÉ</title>
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<header><h1 class="brand">LE PRIVÉ</h1><div class="tagline">BAR · CARTA DE BEBIDAS</div></header>
+<main>
+<a class="back" href="index.html">← Volver al menú principal</a><section class="menu-card"><h2>CERVEZAS</h2><div class="item"><span class="name">Stella Artois 1 lts</span><span class="price">$12.000</span></div><div class="item"><span class="name">Stella Artois (cc)</span><span class="price">$10.000</span></div><div class="item"><span class="name">Lata Stella Artois 473 cc</span><span class="price">$7.000</span></div><div class="item"><span class="name">Patagonia 24.7 710 cc</span><span class="price">$10.000</span></div><div class="item"><span class="name">Patagonia Amber Lager 710 cc</span><span class="price">$10.000</span></div><div class="item"><span class="name">Patagonia Vera IPA 710 cc</span><span class="price">$10.000</span></div><div class="item"><span class="name">Corona 710 cc</span><span class="price">$10.000</span></div><div class="item"><span class="name">Corona 330 cc</span><span class="price">$6.000</span></div><div class="item"><span class="name">Brahma 1 lts</span><span class="price">$9.000</span></div><div class="item"><span class="name">Budweiser 1 lts</span><span class="price">$9.000</span></div><div class="item"><span class="name">Budweiser 330 cc</span><span class="price">$5.000</span></div><div class="item"><span class="name">Quilmes 1 lts</span><span class="price">$9.000</span></div></section>
+</main>
+<footer>LE PRIVÉ · Carta de precios</footer>
+</body></html>
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="theme-color" content="#101114"><title>CON ALCOHOL | LE PRIVÉ</title>
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<header><h1 class="brand">LE PRIVÉ</h1><div class="tagline">BAR · CARTA DE BEBIDAS</div></header>
+<main>
+<a class="back" href="index.html">← Volver al menú principal</a><section class="menu-card"><h2>CON ALCOHOL</h2><p class="note">Estamos preparando esta sección. Próximamente vas a encontrar aquí los productos y precios.</p></section>
+</main>
+<footer>LE PRIVÉ · Carta de precios</footer>
+</body></html>
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="theme-color" content="#101114"><title>ENTRADA PARA COMPARTIR | LE PRIVÉ</title>
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<header><h1 class="brand">LE PRIVÉ</h1><div class="tagline">BAR · CARTA DE BEBIDAS</div></header>
+<main>
+<a class="back" href="index.html">← Volver al menú principal</a><section class="menu-card"><h2>ENTRADA PARA COMPARTIR</h2><p class="note">Estamos preparando esta sección. Próximamente vas a encontrar aquí los productos y precios.</p></section>
+</main>
+<footer>LE PRIVÉ · Carta de precios</footer>
+</body></html>
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="theme-color" content="#101114"><title>Carta | LE PRIVÉ</title>
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<header><h1 class="brand">LE PRIVÉ</h1><div class="tagline">BAR · CARTA DE BEBIDAS</div></header>
+<main>
+
+<p class="intro">Elegí una categoría para consultar nuestra carta.</p>
+<nav class="grid">
+<a class="category" href="entrada.html"><span>Entrada para compartir</span><span class="arrow">›</span></a>
+<a class="category" href="cervezas.html"><span>Cervezas</span><span class="arrow">›</span></a>
+<a class="category" href="tragos.html"><span>Tragos</span><span class="arrow">›</span></a>
+<a class="category" href="vinos.html"><span>Vinos</span><span class="arrow">›</span></a>
+<a class="category" href="sin-alcohol.html"><span>Sin alcohol</span><span class="arrow">›</span></a>
+<a class="category" href="con-alcohol.html"><span>Con alcohol</span><span class="arrow">›</span></a>
+<a class="category" href="whisky.html"><span>Whisky</span><span class="arrow">›</span></a>
+</nav>
+
+</main>
+<footer>LE PRIVÉ · Carta de precios</footer>
+</body></html>
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="theme-color" content="#101114"><title>BEBIDAS SIN ALCOHOL | LE PRIVÉ</title>
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<header><h1 class="brand">LE PRIVÉ</h1><div class="tagline">BAR · CARTA DE BEBIDAS</div></header>
+<main>
+<a class="back" href="index.html">← Volver al menú principal</a><section class="menu-card"><h2>BEBIDAS SIN ALCOHOL</h2>
+<div class="item"><span class="name">Lata Pepsi</span><span class="price">$4.000</span></div>
+<div class="item"><span class="name">Coca-Cola 375 cc</span><span class="price">$4.000</span></div>
+<div class="item"><span class="name">Agua Mineral 500 cc</span><span class="price">$3.000</span></div>
+</section>
+</main>
+<footer>LE PRIVÉ · Carta de precios</footer>
+</body></html>
+
+:root{--bg:#101114;--panel:#1a1b20;--gold:#d8b56d;--muted:#b9b7b1;--line:#38352e}
+*{box-sizing:border-box}
+body{margin:0;background:radial-gradient(circle at top,#29251e 0,#101114 48%);color:#f7f3ea;font-family:Arial,Helvetica,sans-serif;min-height:100vh}
+header{text-align:center;padding:42px 18px 28px;border-bottom:1px solid var(--line)}
+.brand{font-family:Georgia,serif;font-size:clamp(2.4rem,7vw,4.5rem);letter-spacing:.22em;color:var(--gold);margin:0}
+.tagline{color:var(--muted);letter-spacing:.28em;text-transform:uppercase;font-size:.72rem;margin-top:12px}
+main{width:min(920px,92%);margin:36px auto 70px}
+.intro{text-align:center;color:var(--muted);margin:0 0 28px}
+.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:15px}
+.category{display:flex;align-items:center;justify-content:space-between;gap:12px;text-decoration:none;color:#f7f3ea;background:linear-gradient(135deg,#222329,#17181c);border:1px solid #464139;border-radius:12px;padding:22px 20px;transition:.2s}
+.category:hover{border-color:var(--gold);transform:translateY(-2px);background:#25231f}
+.category span:first-child{font-family:Georgia,serif;font-size:1.18rem}
+.arrow{color:var(--gold);font-size:1.35rem}
+.menu-card{background:rgba(26,27,32,.94);border:1px solid var(--line);border-radius:14px;padding:clamp(18px,4vw,32px);box-shadow:0 18px 50px #0005}
+h2{font-family:Georgia,serif;color:var(--gold);text-align:center;letter-spacing:.16em;font-size:1.6rem;margin:0 0 24px}
+.item{display:flex;justify-content:space-between;align-items:baseline;gap:18px;padding:13px 2px;border-bottom:1px solid #343238}
+.item:last-child{border-bottom:0}
+.name{color:#f3eee4;line-height:1.4}
+.price{color:var(--gold);font-weight:700;white-space:nowrap}
+.subhead{color:var(--gold);font-family:Georgia,serif;font-size:1.05rem;margin:22px 0 5px}
+.back{display:inline-block;margin:0 0 20px;color:var(--gold);text-decoration:none}
+.back:hover{text-decoration:underline}
+.note{text-align:center;color:var(--muted);padding:24px 5px}
+footer{text-align:center;color:#888;font-size:.8rem;padding:20px;border-top:1px solid var(--line)}
+@media(max-width:420px){.item{gap:10px}.name{font-size:.94rem}.price{font-size:.94rem}}
+
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="theme-color" content="#101114"><title>TRAGOS | LE PRIVÉ</title>
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<header><h1 class="brand">LE PRIVÉ</h1><div class="tagline">BAR · CARTA DE BEBIDAS</div></header>
+<main>
+<a class="back" href="index.html">← Volver al menú principal</a><section class="menu-card"><h2>TRAGOS</h2>
+<div class="item"><span class="name">Fernet</span><span class="price">$10.000</span></div>
+<div class="subhead">Vodka</div>
+<div class="item"><span class="name">Absolut</span><span class="price">$15.000</span></div>
+<div class="item"><span class="name">Sky</span><span class="price">$12.000</span></div>
+<div class="item"><span class="name">Sernova</span><span class="price">$12.000</span></div>
+<div class="subhead">Gin</div>
+<div class="item"><span class="name">Gordon’s</span><span class="price">$12.000</span></div>
+<div class="item"><span class="name">Bombay</span><span class="price">$15.000</span></div>
+<div class="item"><span class="name">Beefeater</span><span class="price">$15.000</span></div>
+<div class="item"><span class="name">Gancia</span><span class="price">$8.000</span></div>
+</section>
+</main>
+<footer>LE PRIVÉ · Carta de precios</footer>
+</body></html>
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="theme-color" content="#101114"><title>VINOS | LE PRIVÉ</title>
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<header><h1 class="brand">LE PRIVÉ</h1><div class="tagline">BAR · CARTA DE BEBIDAS</div></header>
+<main>
+<a class="back" href="index.html">← Volver al menú principal</a><section class="menu-card"><h2>VINOS</h2><p class="note">Estamos preparando esta sección. Próximamente vas a encontrar aquí los productos y precios.</p></section>
+</main>
+<footer>LE PRIVÉ · Carta de precios</footer>
+</body></html>
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="theme-color" content="#101114"><title>WHISKY | LE PRIVÉ</title>
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<header><h1 class="brand">LE PRIVÉ</h1><div class="tagline">BAR · CARTA DE BEBIDAS</div></header>
+<main>
+<a class="back" href="index.html">← Volver al menú principal</a><section class="menu-card"><h2>WHISKY</h2><p class="note">Estamos preparando esta sección. Próximamente vas a encontrar aquí los productos y precios.</p></section>
+</main>
+<footer>LE PRIVÉ · Carta de precios</footer>
+</body></html>
